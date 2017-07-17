@@ -1,6 +1,6 @@
 # serverx
 
-基于Spring 和 Netty 实现的 Web服务框架，由于Netty的 NIO等特性，该框架和普通容器（Tomcat）相比，拥有更好的性能。
+基于Spring 和 Netty 实现的 Web服务框架，由于Netty具有NIO、多路复用等特性，该框架和普通容器（Tomcat）相比，拥有更好的性能。
 
 # 相关组件
 
@@ -10,3 +10,6 @@
 * Spring（Factory、MVC）
 * Netty（HTTP、TCP）
 * XTools（XML、JSON）
+
+# 使用示例
+  参看，后期代码示例
