@@ -11,10 +11,16 @@
 * Netty（HTTP、TCP）
 * XTools（XML、JSON）
 
-# 使用示例
-  参看，后期代码示例
-
 # 系统优化
 * Linux 优化
 * JVM 优化
 * Code 优化
+
+# 使用示例
+  参看，后期代码示例
+  
+# 性能测试
+  参看，后期性能测试
+  
+# 编译打包
+  assembly+maven
