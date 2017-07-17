@@ -27,5 +27,5 @@
   
 ### 编译打包
 ----------
-+ assembly
-+ maven
++ Assembly
++ Maven
