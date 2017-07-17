@@ -6,10 +6,15 @@
 
 * System Define（Default、Annotation）
 * Startup（Load Config、Bind address）
-* Configuration(Filter、INIT、WEB)
+* Configuration(Filter、init、web)
 * Spring（Factory、MVC）
 * Netty（HTTP、TCP）
 * XTools（XML、JSON）
 
 # 使用示例
   参看，后期代码示例
+
+# 系统优化
+* Linux 优化
+* JVM 优化
+* Code 优化
