@@ -18,6 +18,7 @@
 		<java.version>1.7</java.version>
 		<commons-io.version>2.4</commons-io.version>
 		<log4j.version>1.2.17</log4j.version>
+		<javatuples.version>1.2</javatuples.version>
 	</properties>
 
 	<dependencies>
@@ -29,7 +30,15 @@
 			<version>${fastjson.version}</version>
 			<scope>compile</scope>
 		</dependency>
-
+		
+		<!-- https://mvnrepository.com/artifact/org.javatuples/javatuples -->
+		<dependency>
+		    <groupId>org.javatuples</groupId>
+		    <artifactId>javatuples</artifactId>
+		    <version>${javatuples.version}</version>
+		    <scope>compile</scope>
+		</dependency>
+				
 		<!-- https://mvnrepository.com/artifact/io.netty/netty-all -->
 		<dependency>
 			<groupId>io.netty</groupId>
@@ -38,7 +47,7 @@
 			<scope>compile</scope>
 		</dependency>
 
-		<!-- spring -->
+		<!-- https://mvnrepository.com/artifact/org.springframework/spring-web -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-web</artifactId>
@@ -46,7 +55,7 @@
 			<scope>compile</scope>
 		</dependency>
 
-		<!-- commons -->
+		<!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
 		<dependency>
 			<groupId>commons-io</groupId>
 			<artifactId>commons-io</artifactId>
@@ -54,7 +63,7 @@
 			<scope>compile</scope>
 		</dependency>
 
-		<!-- log4j -->
+		<!-- https://mvnrepository.com/artifact/log4j/log4j -->
 		<dependency>
 			<groupId>log4j</groupId>
 			<artifactId>log4j</artifactId>
