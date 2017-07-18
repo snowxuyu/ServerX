@@ -54,7 +54,6 @@
 
 ### 元组工具类
 ------
-源码地址：https://github.com/javatuples/javatuples
 + Unit<A> (1 element)
 + Pair<A,B> (2 elements)
 + Triplet<A,B,C> (3 elements)
