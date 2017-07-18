@@ -8,6 +8,7 @@
 * Spring （Context、MVC）
 * Netty  （HTTP、TCP）
 * XTools （XML、JSON、YAML、Properties）
+* 元组支持
 
 ### System模块
 ------
@@ -50,3 +51,16 @@
 ### XTools模块
 ------
 + 提供lib使用中所需的常用工具，如：xml，json，properties，ymal等工具
+
+### 元组工具类
+@https://github.com/javatuples/javatuples
+Unit<A> (1 element)
+Pair<A,B> (2 elements)
+Triplet<A,B,C> (3 elements)
+Quartet<A,B,C,D> (4 elements)
+Quintet<A,B,C,D,E> (5 elements)
+Sextet<A,B,C,D,E,F> (6 elements)
+Septet<A,B,C,D,E,F,G> (7 elements)
+Octet<A,B,C,D,E,F,G,H> (8 elements)
+Ennead<A,B,C,D,E,F,G,H,I> (9 elements)
+Decade<A,B,C,D,E,F,G,H,I,J> (10 elements)
