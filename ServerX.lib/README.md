@@ -1,5 +1,13 @@
 # 需求概述
 
+### 相关组件
+* System Define（Default、Annotation）
+* Startup（Load Config、Bind address）
+* Configuration (Filter、init、web)
+* Spring       （Factory、MVC）
+* Netty        （HTTP、TCP）
+* XTools       （XML、JSON）
+
 ### config模块
 
 + 支持的配置文件类型：ymal，json，xml，properties
